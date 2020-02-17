@@ -1,0 +1,3 @@
+Alessandro Chiarelli 123456789 current 1000 EUR ID AY56 via casa mia 1 00123 Roma
+Massimiliano Chiarelli 234567890 current 1500 EUR ID AY58 via casa tua 23 12300 Torino
+Milena DeGennaro 987654321 current 1250 EUR ID AY57 via svizzera 2 02345 Milano
